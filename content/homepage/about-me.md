@@ -1,6 +1,6 @@
 ---
 title: "Обо мне"
-weight: 3
+weight: 2
 header_menu: true
 ---
 
