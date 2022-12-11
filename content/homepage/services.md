@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 ---
-{{< gallery dir="reviews/" />}}
+{{< gallery dir="/reviews" />}}
 {{< load-photoswipe >}}
 
 ---
