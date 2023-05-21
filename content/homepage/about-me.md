@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-![Ризида](images/photo.jfif)
+![Ризида](images/photo.jpg)
 
 Здравствуйте, меня зовут Ризида, я практикующий психолог-консультант.
 
